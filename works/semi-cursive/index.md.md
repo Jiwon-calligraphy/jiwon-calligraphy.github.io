@@ -1,39 +1,34 @@
 ---
-title: 行楷作品 Semi-cursive Script
----
----
-title: 行楷作品集 Semi-cursive Script
+title: 行楷作品 Semi-cursive
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/style.css">
 
-<div class="page-wrapper">
+# 行楷作品集 Semi-cursive
 
-<h1>行楷作品集 Semi-cursive Script</h1>
-<p class="section-note">
-  行楷介于楷书与行书之间，是我创作与日常书写中使用最多的书体。
-</p>
+行楷介于楷书与行书之间，是我日常书写中最常用的书体。
 
-{% assign semi_images = site.static_files
-  | where_exp: "file", "file.path contains '/works/semi-cursive/'" %}
+---
+
+## 精选作品 Selected Works
 
 <div class="gallery">
-  {% for image in semi_images %}
-    {% if image.extname == '.jpg' or image.extname == '.png' %}
-    <figure class="gallery-item">
-      <img src="{{ image.path | relative_url }}"
-           alt="行楷作品 {{ forloop.index }}"
-           loading="lazy">
-      <figcaption class="gallery-item-caption">
-        行楷作品 {{ forloop.index }}
-      </figcaption>
-    </figure>
-    {% endif %}
-  {% endfor %}
+{% assign semi_images = site.static_files
+  | where_exp: "file", "file.path contains '/works/semi-cursive/'"
+%}
+
+{% for image in semi_images %}
+  {% if image.extname == '.jpg' or image.extname == '.png' or image.extname == '.jpeg' %}
+  <figure class="work-card">
+    <img src="{{ image.path | relative_url }}" alt="行楷作品">
+    <figcaption class="work-caption">
+      行楷习作 · {{ forloop.index }}
+    </figcaption>
+  </figure>
+  {% endif %}
+{% endfor %}
 </div>
 
-<p class="back-link">
+<div class="back-home">
   <a href="/index.html">← 返回首页</a>
-</p>
-
 </div>
