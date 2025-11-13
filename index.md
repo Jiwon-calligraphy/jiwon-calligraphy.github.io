@@ -1,9 +1,6 @@
 
 <link rel="stylesheet" href="/assets/style.css">
 
-# 陆吉源 ｜ 书法作品简历
-……
-
 # 🌿 陆吉源｜书法简历
 
 ## 一、基本信息
