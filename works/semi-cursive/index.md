@@ -1,6 +1,9 @@
 ---
 title: 行楷作品 Semi-cursive
 ---
+---
+title: 行楷作品 Semi-cursive
+---
 
 <link rel="stylesheet" href="/assets/style.css">
 
@@ -14,13 +17,12 @@ title: 行楷作品 Semi-cursive
 
 <div class="gallery">
 {% assign semi_images = site.static_files
-  | where_exp: "file", "file.path contains '/works/semi-cursive/'"
-%}
-
+  | where_exp: "file", "file.path contains '/works/semi-cursive/'" %}
 {% for image in semi_images %}
-  {% if image.extname == '.jpg' or image.extname == '.png' or image.extname == '.jpeg' %}
+  {% assign ext = image.extname | downcase %}
+  {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' %}
   <figure class="work-card">
-    <img src="{{ image.path | relative_url }}" alt="行楷作品">
+    <img src="{{ image.path | relative_url }}" alt="行楷作品 {{ forloop.index }}">
     <figcaption class="work-caption">
       行楷习作 · {{ forloop.index }}
     </figcaption>

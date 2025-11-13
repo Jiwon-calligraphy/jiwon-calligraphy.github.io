@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "works/xiaokai/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "works/xiaokai/index.md"
               },
               "icon": "lucide-info",
               "title": "index的笔记属性"
@@ -196,11 +196,13 @@
   },
   "active": "39c995665394a8ff",
   "lastOpenFiles": [
-    "works/xiaokai/index.md",
     "works/semi-cursive/index.md",
+    "works/regular/index.md",
+    "works/semi-cursive/IMG_7147.jpg",
+    "works/xiaokai/index.md",
+    "index.md",
     "works/xiaokai/IMG_9849.jpg",
     "works/xiaokai/IMG_6218.jpg",
-    "works/semi-cursive/IMG_7147.jpg",
     "works/regular/regular-02 (7).jpg",
     "works/regular/regular-02 (6).jpg",
     "works/regular/regular-02 (5).jpg",
@@ -208,11 +210,9 @@
     "works/regular/regular-02 (7).JPG",
     "works/regular/regular-02 (6).JPG",
     "works/regular/regular-02 (5).JPG",
-    "works/regular/index.md",
     "works/regular/index.md.md",
     "works/semi-cursive/index.md.md",
     "works/xiaokai/index.md.md",
-    "index.md",
     "works/regular.md",
     "gallery/kaishu.md",
     "gallery/xingkai.md",
