@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "works/xiaokai/index.md.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8707fa8de9812d4c",
@@ -154,17 +154,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "works/xiaokai/index.md.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index.md 的大纲"
+              "title": "index 的大纲"
+            }
+          },
+          {
+            "id": "419f119b8640efcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "index.md"
+              },
+              "icon": "lucide-info",
+              "title": "index的笔记属性"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -184,9 +196,10 @@
   },
   "active": "39c995665394a8ff",
   "lastOpenFiles": [
-    "works/semi-cursive/index.md.md",
-    "works/regular/index.md.md",
     "index.md",
+    "works/semi-cursive/index.md.md",
+    "works/xiaokai/index.md.md",
+    "works/regular/index.md.md",
     "asset/css/style.css.md",
     "works/regular/regular-04.JPG",
     "asset/css",
@@ -199,7 +212,6 @@
     "works/xiaokai/IMG_0602.jpg",
     "works/xiaokai/IMG_6218.JPG",
     "works/xiaokai/_DSC3218.jpg",
-    "works/xiaokai/index.md.md",
     "{{.md",
     "works/regular/regular-02.JPG",
     "works/xiaokai",
