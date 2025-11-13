@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "works/xiaokai/index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index.md"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "works/xiaokai/index.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "index.md 的大纲"
             }
           }
         ],
@@ -184,7 +184,32 @@
   },
   "active": "39c995665394a8ff",
   "lastOpenFiles": [
+    "works/semi-cursive/index.md.md",
+    "works/regular/index.md.md",
     "index.md",
+    "asset/css/style.css.md",
+    "works/regular/regular-04.JPG",
+    "asset/css",
+    "asset",
+    "works/regular/regular-01.JPG",
+    "works/regular/regular-03.JPG",
+    "works/semi-cursive/IMG_7147.JPG",
+    "works/xiaokai/IMG_9849.JPG",
+    "works/xiaokai/IMG_9529.jpg",
+    "works/xiaokai/IMG_0602.jpg",
+    "works/xiaokai/IMG_6218.JPG",
+    "works/xiaokai/_DSC3218.jpg",
+    "works/xiaokai/index.md.md",
+    "{{.md",
+    "works/regular/regular-02.JPG",
+    "works/xiaokai",
+    "works/semi-cursive",
+    "works/regular",
+    "works/新建文件夹 (3)",
+    "works/新建文件夹 (2)",
+    "works/新建文件夹",
+    "works",
+    "新建文件夹",
     "未命名.canvas",
     "未命名 1.canvas",
     "欢迎.md"

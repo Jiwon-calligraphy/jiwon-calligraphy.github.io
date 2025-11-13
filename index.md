@@ -1,3 +1,19 @@
+
+
+---
+title: 陆吉源 | 书法作品简历
+---
+
+<link rel="stylesheet" href="/assets/css/style.css">
+
+<div class="page-wrapper">
+
+<div class="resume-header">
+  <h1 class="resume-title">陆吉源｜书法作品简历</h1>
+  <p class="resume-subtitle">硬笔楷书 · 行楷 · 毛笔小楷 · 日系清新风格创作</p>
+</div>
+
+<!-- 这里放你原来写的简历正文：基本信息 / 擅长方向 / 荣誉奖项等等 -->
 ------
 
 # 🌿 陆吉源｜书法作品简历
@@ -8,15 +24,11 @@
  **方向**：书法创作者｜兼职题字作者
  **擅长书体**：楷书（硬笔/毛笔）、行楷、毛笔小楷、艺术题字风格
 
-**作品集**：https://jiwon-calligraphy.github.io/
----
 ## 📚 作品集 Portfolio
 
-> 点击下列链接可查看分门别类的书法作品。
-
-- [楷书作品集 Regular Script](works/regular/index.md)
-- [行楷作品集 Semi-cursive](works/semi-cursive/index.md)
-- [小楷作品集 Xiaokai](works/xiaokai/index.md)
+- [楷书 Regular Script](/works/regular/)
+- [行楷 Semi-cursive](/works/semi-cursive/)
+- [小楷 Xiaokai](/works/xiaokai/)
 
 ------
 
@@ -119,3 +131,6 @@
 
 ------
 
+
+
+</div>
