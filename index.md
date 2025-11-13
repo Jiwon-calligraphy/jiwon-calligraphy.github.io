@@ -11,10 +11,12 @@
 **城市**：深圳市
 **邮箱**：messyboy@126.com
 
-👉 作品集请查看：
-- [楷书](gallery/kaishu)
-- [行楷](gallery/xingkai)
-- [小楷](gallery/xiaokai)
+## 📚 作品集 Portfolio
+
+- [楷书 Regular Script](/works/regular/)
+- [行楷 Semi-cursive](/works/semi-cursive/)
+- [小楷 Xiaokai](/works/xiaokai/)
+
 ---
 
 ## 二、个人简介（About Me）
