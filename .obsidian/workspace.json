@@ -11,10 +11,14 @@
             "id": "39c995665394a8ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "works/semi-cursive/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -150,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "works/regular/index.md.md",
+                "file": "works/semi-cursive/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index.md 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -165,10 +169,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "works/regular/index.md.md"
+                "file": "works/semi-cursive/index.md"
               },
               "icon": "lucide-info",
-              "title": "index.md的笔记属性"
+              "title": "index的笔记属性"
             }
           }
         ],
@@ -190,35 +194,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1266898426c02c4d",
+  "active": "39c995665394a8ff",
   "lastOpenFiles": [
+    "works/xiaokai/IMG_9849.jpg",
+    "works/xiaokai/IMG_6218.jpg",
+    "works/semi-cursive/IMG_7147.jpg",
+    "works/regular/regular-02 (7).jpg",
+    "works/regular/regular-02 (6).jpg",
+    "works/regular/regular-02 (5).jpg",
+    "works/regular/regular-02 (1).jpg",
+    "works/regular/regular-02 (7).JPG",
+    "works/regular/regular-02 (6).JPG",
+    "works/regular/regular-02 (5).JPG",
+    "works/regular/regular-02 (4).JPG",
     "works/regular/index.md",
-    "works/semi-cursive/index.md",
     "works/xiaokai/index.md",
+    "works/semi-cursive/index.md",
+    "works/regular/index.md.md",
     "works/semi-cursive/index.md.md",
     "works/xiaokai/index.md.md",
     "index.md",
     "works/regular.md",
     "gallery/kaishu.md",
-    "works/regular/index.md.md",
     "gallery/xingkai.md",
     "gallery",
     "未命名.canvas",
     "欢迎.md",
-    "works/regular/regular-01.JPG",
     "{{.md",
-    "Pasted image 20251113202723.png",
     "asset/css/style.css.md",
-    "works/regular/regular-04.JPG",
     "asset/css",
     "asset",
-    "works/regular/regular-03.JPG",
-    "works/semi-cursive/IMG_7147.JPG",
-    "works/xiaokai/IMG_9849.JPG",
-    "works/xiaokai/IMG_9529.jpg",
-    "works/xiaokai/IMG_0602.jpg",
-    "works/xiaokai/IMG_6218.JPG",
-    "works/xiaokai/_DSC3218.jpg",
     "works/xiaokai",
     "works/semi-cursive",
     "works/regular",
