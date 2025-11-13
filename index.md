@@ -8,7 +8,15 @@
  **方向**：书法创作者｜兼职题字作者
  **擅长书体**：楷书（硬笔/毛笔）、行楷、毛笔小楷、艺术题字风格
 
-**作品集**：http://forexample.com
+**作品集**：https://jiwon-calligraphy.github.io/
+---
+## 📚 作品集 Portfolio
+
+> 点击下列链接可查看分门别类的书法作品。
+
+- [楷书作品集 Regular Script](works/regular/index.md)
+- [行楷作品集 Semi-cursive](works/semi-cursive/index.md)
+- [小楷作品集 Xiaokai](works/xiaokai/index.md)
 
 ------
 
